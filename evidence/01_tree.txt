@@ -1,0 +1,7 @@
+/home/muskanzeeshan/lab06-software
+├── README.md
+├── evidence
+│   └── 01_tree.txt
+└── notes
+
+3 directories, 2 files
